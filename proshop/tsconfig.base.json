@@ -16,7 +16,8 @@
     "baseUrl": ".",
     "paths": {
       "@proshop/orders": ["modules/orders/src/index.ts"],
-      "@proshop/products": ["modules/products/src/index.ts"]
+      "@proshop/products": ["modules/products/src/index.ts"],
+      "@proshop/ui": ["modules/shared/ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
