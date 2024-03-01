@@ -8,7 +8,8 @@
     "test": "nx test",
     "lint": "nx lint",
     "e2e": "nx e2e e2e",
-    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,cy.ts}\""
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,cy.ts}\"",
+    "graph": "nx graph"
   },
   "private": true,
   "dependencies": {
